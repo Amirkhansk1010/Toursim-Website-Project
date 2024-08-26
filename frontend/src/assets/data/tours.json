@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hawa Mahal",
+    "city": "Jaipur",
+    "address": "Badi Chaupar",
+    "distance": 7,
+    "price": 999,
+    "maxGroupSize": 10,
+    "desc": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jantar Mantar",
+    "city": "Jaipur",
+    "address": "Tripolia, Badi Chaupar",
+    "distance": 7,
+    "price": 1999,
+    "maxGroupSize": 9,
+    "desc": "The Jantar Mantar, Jaipur is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh, the founder of Jaipur, Rajasthan. The monument was completed in 1734.[1][2] It features the world's largest stone sundial, and is a UNESCO World Heritage Site.[1][3] It is near City Palace and Hawa Mahal.[4] The instruments allow the observation of astronomical positions with the naked eye.[1] The observatory is an example of the Ptolemaic positional astronomy which was shared by many civilizations.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Amber Fort",
+    "city": "Jaipur",
+    "address": "Amer",
+    "distance": 18,
+    "price": 1499,
+    "maxGroupSize": 12,
+    "desc": "Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres (1.5 sq mi)[2] located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.[3][4] Amer Fort is known for its artistic style elements. With its large ramparts and series of gates and cobbled paths, the fort overlooks Maota Lake,[4][5][6][7] which is the main source of water for the Amer Palace.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jal Mahal",
+    "city": "Jaipur",
+    "address": "500m from ramgarh mod",
+    "distance": 8,
+    "price": 99,
+    "maxGroupSize": 15,
+    "desc": "Jal Mahal (meaning 'Water Palace' is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace was originally constructed around 1699; the building and the lake around it were later renovated and enlarged in the early 18th century by Maharaja Jai Singh II of Amber.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Albert Hall",
+    "city": "Jaipur",
+    "address": "Jaipur New Gate",
+    "distance": 8,
+    "price": 399,
+    "maxGroupSize": 5,
+    "desc": "The Albert Hall Museum in Jaipur is the oldest museum of the state and functions as the state museum of Rajasthan, India. The building is situated in Ram Niwas garden outside the city wall opposite New gate and is a fine example of Indo-Saracenic architecture. It is also called the Government Central Museum. It was considered one of the best 19th century museums for the variety of its collections. It was renovated in 2008 and reopened as one of the most advanced museums in India.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaipur City Palace",
+    "city": "Jaipur",
+    "address": "Tripolia Chaura rasta",
+    "distance": 9,
+    "price": 599,
+    "maxGroupSize": 5,
+    "desc": "The City Palace, Jaipur is a royal residence and former administrative headquarters of the rulers of the Jaipur State in Jaipur, Rajasthan.[1] Construction started soon after the establishment of the city of Jaipur under the reign of Maharaja Sawai Jai Singh II, who moved his court to Jaipur from Amber, in 1727.[2] Jaipur remained the capital of the kingdom until 1949—when it became the capital of the present-day Indian state of Rajasthan—with the City Palace functioning as the ceremonial and administrative seat of the Maharaja of Jaipur.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nahargarh Fort",
+    "city": "Jaipur",
+    "address": "Nahargarh road",
+    "distance": 8,
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "It was constructed during the reign of Jai Singh in 1734, and was later expanded in 1868. Nahargarh, which means abode of tigers, was a formidable barrier, defending Jaipur against attacking enemies. Within its walls, the fort houses Madhavendra Bhawan, the summer destination for the members of the royal family.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Birla Mandir",
+    "city": "Jaipur",
+    "address": "Jawahar Lal Nehru Marg, Jaipur",
+    "distance": 12,
+    "price": 9,
+    "maxGroupSize": 15,
+    "desc": "It was built by the B.M. Birla Foundation in 1988 and is constructed solely of white marble. It is dedicated to the Hindu goddess Lakshmi and god Vishnu (Narayan), whose images appear inside, along with other Hindu gods and goddesses and selections from the Gita and Upanishads.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Narhargarh Zoological Park",
+    "city": "Jaipur",
+    "address": "NH 8, Kukas, Jaipur",
+    "distance": 22,
+    "price": 299,
+    "maxGroupSize": 10,
+    "desc": "Nahargarh Biological Park, a part of the Nahargarh sanctuary is located about 12 km from Jaipur on the Jaipur-Delhi highway. It encompasses a large area of 720 hectares and is situated under the Aravalli range. The Park is famous for its vast flora and fauna, and its main aim is to conserve it. It also doubles up as a great place to educate people and conduct research on existing flora and fauna.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Jaigarh Fort",
+    "city": "Jaipur",
+    "address": "400M from amer",
+    "distance": 12,
+    "price": 699,
+    "maxGroupSize": 10,
+    "desc": ".Jaigarh Fort is situated on the promontory called the Cheel ka Teela (Hill of Eagles) of the Aravalli range; it overlooks the Amer Fort and the Maota Lake, near Amer in Jaipur, Rajasthan, India.[1][2] The fort was built by Mirza Raja Jai Singh in 1726 to protect the Amer Fort and its palace complex and was named after him.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  }
+]
